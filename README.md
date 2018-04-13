@@ -4,5 +4,7 @@
 2. Add your users to users.txt
 
 ```make build``` builds the docker image
+
 ```make start```
+
 ```make stop```
